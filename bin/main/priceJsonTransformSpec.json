@@ -1,0 +1,13 @@
+[
+  {
+    "operation": "shift",
+    "spec": {
+      "success": "success",
+      "responseCode": "responseCode",
+      "messageKey": "messageKey",
+      "data": {
+        "*": "&1"
+      }
+    }
+    }
+]
